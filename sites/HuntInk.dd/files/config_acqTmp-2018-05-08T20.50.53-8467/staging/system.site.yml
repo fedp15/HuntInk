@@ -1,0 +1,14 @@
+uuid: 71d2c081-cf97-4491-bc99-ea8cb4c78c8b
+name: HuntInk
+mail: huntinkapp@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: es
+default_langcode: es
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
