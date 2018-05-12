@@ -2,6 +2,7 @@
          display-property-grouping,
          duplicate-background-images,
          duplicate-properties,
+         empty-rules,
          ids,
          import,
          important,
