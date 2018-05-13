@@ -251,7 +251,10 @@ $databases = array();
  *   );
  * @endcode
  */
-$config_directories = array();
+ $config_directories = array(
+ CONFIG_SYNC_DIRECTORY =>
+ 'C:\Users\fabio\Sites\devdesktop\huntink\config\sync',
+ );
 
 /**
  * Settings:
